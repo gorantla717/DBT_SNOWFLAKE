@@ -19,3 +19,18 @@ models:
             tests:
                 - unique
                 - not_null
+
+    - name: fct_orders_incremental
+      description: "This is fact orders Table"
+      columns:
+          - name: order_id
+            description: "order_id info"
+            tests:
+                - unique
+                - not_null
+          - name: customer_id
+            description: "customer_id info"
+            tests:
+                - unique
+                - not_null
+
