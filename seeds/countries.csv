@@ -1,0 +1,53 @@
+country_code,country_name,continent,region,population_millions,iso_numeric,is_active
+US,United States,North America,Northern America,331,840,true
+CA,Canada,North America,Northern America,38,124,true
+MX,Mexico,North America,Central America,126,484,true
+BR,Brazil,South America,South America,214,76,true
+AR,Argentina,South America,South America,45,32,true
+CL,Chile,South America,South America,19,152,true
+CO,Colombia,South America,South America,52,170,true
+PE,Peru,South America,South America,34,604,true
+GB,United Kingdom,Europe,Western Europe,67,826,true
+FR,France,Europe,Western Europe,65,250,true
+DE,Germany,Europe,Western Europe,83,276,true
+IT,Italy,Europe,Southern Europe,59,380,true
+ES,Spain,Europe,Southern Europe,48,724,true
+NL,Netherlands,Europe,Western Europe,18,528,true
+BE,Belgium,Europe,Western Europe,12,56,true
+SE,Sweden,Europe,Northern Europe,10,752,true
+NO,Norway,Europe,Northern Europe,5,578,true
+FI,Finland,Europe,Northern Europe,6,246,true
+PL,Poland,Europe,Eastern Europe,38,616,true
+UA,Ukraine,Europe,Eastern Europe,36,804,true
+RU,Russia,Europe/Eurasia,Eastern Europe,144,643,true
+IN,India,Asia,Southern Asia,1428,356,true
+CN,China,Asia,Eastern Asia,1412,156,true
+JP,Japan,Asia,Eastern Asia,125,392,true
+KR,South Korea,Asia,Eastern Asia,52,410,true
+SG,Singapore,Asia,Southeast Asia,6,702,true
+MY,Malaysia,Asia,Southeast Asia,34,458,true
+TH,Thailand,Asia,Southeast Asia,71,764,true
+ID,Indonesia,Asia,Southeast Asia,277,360,true
+PH,Philippines,Asia,Southeast Asia,114,608,true
+VN,Vietnam,Asia,Southeast Asia,99,704,true
+PK,Pakistan,Asia,Southern Asia,240,586,true
+BD,Bangladesh,Asia,Southern Asia,172,50,true
+LK,Sri Lanka,Asia,Southern Asia,22,144,true
+NP,Nepal,Asia,Southern Asia,30,524,true
+AU,Australia,Oceania,Australia & NZ,26,36,true
+NZ,New Zealand,Oceania,Australia & NZ,5,554,true
+ZA,South Africa,Africa,Southern Africa,60,710,true
+NG,Nigeria,Africa,Western Africa,223,566,true
+EG,Egypt,Africa,Northern Africa,111,818,true
+KE,Kenya,Africa,Eastern Africa,55,404,true
+GH,Ghana,Africa,Western Africa,34,288,true
+ET,Ethiopia,Africa,Eastern Africa,126,231,true
+TZ,Tanzania,Africa,Eastern Africa,67,834,true
+MA,Morocco,Africa,Northern Africa,37,504,true
+SA,Saudi Arabia,Asia,Western Asia,36,682,true
+AE,United Arab Emirates,Asia,Western Asia,10,784,true
+IL,Israel,Asia,Western Asia,9,376,true
+TR,Turkey,Europe/Asia,Western Asia,85,792,true
+CH,Switzerland,Europe,Western Europe,9,756,true
+AT,Austria,Europe,Western Europe,9,40,true
+IND,India,Asia,Indiatest, 9,40,true
